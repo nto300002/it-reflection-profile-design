@@ -1,0 +1,1 @@
+ALTER TABLE `entries` ADD `published` integer DEFAULT 0 NOT NULL;
